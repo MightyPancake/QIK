@@ -1,5 +1,5 @@
-![QIK](http:https://raw.github.com/MightyPancake/QIK/blob/main/logo/qikLogotypOrange.svg)
-An easy to learn, fast and general use dynamically typed language with no keywords!
+![Alt text](https://raw.github.com/MightyPancake/QIK/blob/main/logo/qikLogotypOrange.svg)
+<img src="https://raw.github.com/MightyPancake/QIK/blob/main/logo/qikLogotypOrange.svg">
 
 ```qik
 /*
