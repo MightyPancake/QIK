@@ -1,4 +1,4 @@
-# QIK
+![QIK](http:https://github.com/MightyPancake/QIK/blob/main/logo/qikLogotypOrange.svg)
 An easy to learn, fast and general use dynamically typed language with no keywords!
 
 ```qik
