@@ -1,5 +1,4 @@
-![Alt text](./logo/qikLogotypOrange.svg)
-<img src="./logo/qikLogotypOrange.svg">
+![QIK](./logo/qikLogotypOrange.svg)
 
 ```qik
 /*
