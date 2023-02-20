@@ -13,6 +13,6 @@ QIK depends on few std libs like `string.h`, `math.h` and `stdbool.h`.
 It also uses a wonderful hashmap.c implemented in C which is included.
 
 # Authors
-The QIK programing language was made almost entirely by **Filip Król aka MightyPancake** with the exception of:
+- The QIK programing language was made with ❤️ by  **Filip Król** aka **MightyPancake**
 - [hashmap.c](https://github.com/tidwall/hashmap.c)
-- Logo made with <3 by a good friend of mine, [Unsua Design](https://www.instagram.com/unsuadesign/)
+- Logo made by a good friend of mine, **[Unsua Design](https://www.instagram.com/unsuadesign/)**
