@@ -14,5 +14,6 @@ It also uses a wonderful hashmap.c implemented in C which is included.
 
 # Authors
 - The QIK programing language was made with ❤️ by  **Filip Król** aka **MightyPancake**
-- [hashmap.c](https://github.com/tidwall/hashmap.c)
 - Logo made by a good friend of mine, **[Unsua Design](https://www.instagram.com/unsuadesign/)**
+- The incredible hashmap implementation in C can be found here [hashmap.c](https://github.com/tidwall/hashmap.c)
+
