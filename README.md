@@ -1,5 +1,5 @@
-![Alt text](https://raw.github.com/MightyPancake/QIK/blob/main/logo/qikLogotypOrange.svg)
-<img src="https://raw.github.com/MightyPancake/QIK/blob/main/logo/qikLogotypOrange.svg">
+![Alt text](./logo/qikLogotypOrange.svg)
+<img src="./logo/qikLogotypOrange.svg">
 
 ```qik
 /*
