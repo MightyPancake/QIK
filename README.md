@@ -8,6 +8,10 @@
 # State
 The project is currently in active development and things can rapidly change! If you want to rely on your code written in QIK, **please store the version of QIK the code was written for**!
 
+# Contribution
+If you encounter any issues please do not hesitate and make an issue! I'll try to fix all the issues or at least adress them in some way.
+You're also more than welcome to post your suggestions/other contributions as well!
+
 # Dependencies
 QIK depends on few std libs like `string.h`, `math.h` and `stdbool.h`.
 It also uses a wonderful hashmap.c implemented in C which is included.
