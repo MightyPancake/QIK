@@ -1,7 +1,7 @@
 ![QIK](./logo/qikLogotypOrange.svg)
 
 # Why QIK?
-- Easy of use. QIK's design is heavily inspired by Lua to be really beginner friendly!
+- Ease of use. QIK's design is heavily inspired by Lua to be really beginner friendly!
 - Insane flexibility in user experience. One can define **own** keywords just the way it's desired!
 - Easy to implement in your project. There's a single header to include!
 
