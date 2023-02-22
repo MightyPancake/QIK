@@ -1,2 +1,11 @@
-# Theoretical introduction
-Programming languages are used to write programs of various sorts. Programs are essentially a way to ask a computer 
+# Imperative programming
+Programming languages are used to write programs of various sorts. Programs are essentially a way to ask a computer to do stuff. There are, however, several ways in which it can be done!
+The most widely used is called imperative programming.
+
+As the naming implies it's essentially giving the computer the exact steps it has to do to achieve the desired goal.
+
+# The idea behind coding
+Programming languages are similar to those we're used to in real life in a way. They're essentially used as tools for communicating ideas, but with a computer. Just like you can express in English, Spanish, or Polish and the meaning can stay the same, you can express the same ideas using different programming languages.
+
+# Expressions and execution order
+Code is 
