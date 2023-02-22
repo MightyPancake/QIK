@@ -1,11 +1,29 @@
 # Imperative programming
 Programming languages are used to write programs of various sorts. Programs are essentially a way to ask a computer to do stuff. There are, however, several ways in which it can be done!
-The most widely used is called imperative programming.
+The most widely used is called imperative programming, and so, we focus on it.
 
-As the naming implies it's essentially giving the computer the exact steps it has to do to achieve the desired goal.
+As the naming implies, it is essentially just giving the computer the exact steps it has to do to achieve the desired goal.
 
 # The idea behind coding
-Programming languages are similar to those we're used to in real life in a way. They're essentially used as tools for communicating ideas, but with a computer. Just like you can express in English, Spanish, or Polish and the meaning can stay the same, you can express the same ideas using different programming languages.
+Programming languages are similar to those we're used to in real life. They're used as tools for communicating ideas, but with a computer instead of another human. Just like you can express in English, Spanish, or Polish and the meaning can stay the same, you can describe the same ideas using different programming languages.
 
 # Expressions and execution order
-Code is 
+A code can be thought of as a set of instructions. Each individual step is called an **expression**. Usually, one expression takes one line, but there are exceptions.
+After the code is done, it's time to execute it. Most (if not all) programming languages run expressions in the natural order, up to down. First expressions first, ending on the last expression. Do keep that in mind as sometimes **the order really matters a lot!**
+
+# First program
+It's a tradition to start one's programming journey with a simple program that just outputs `Hello world`. Here a code sample is described in detail below:
+```qik
+print("Hello world")
+```
+The following code consists of only one expression and therefore, one line.
+
+The first word `print` is a variable. Variables hold a value, in this case, it's a function. Functions will be described in greater detail later on! For now, all you need to remember is that passing something into a `print` will display/output whatever you put inside. Here's another example:
+```qik
+print(42)
+```
+As you might expect, his program outputs number 42.
+As you can see, these two examples are very similar, **yet** there's a small difference. Notice how the `Hello world` program has these quotation marks `"` around the text that is output while 42 doesn't.
+That's because `"Hello world"` is a string, or in other words, a sequence of characters. It can be anything from a single character, a word, a whole sentence, or an entire book!
+Ok, but why the quotation marks?
+That's because a set of characters without them is treated as a variable and we don't want to print a variable called.
