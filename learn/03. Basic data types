@@ -1,0 +1,53 @@
+# Numbers
+Numbers are the first data type we're going to learn. Programming is related to maths and you won't escape dealing with numbers!
+To refer to a number value just type it in the desired place:
+```qik
+print(42)
+```
+The code above will print the number `42`. **Notice how this time there was no need for quotation marks!**
+
+##  Basic math operators
+Of course, having just the numbers we cannot do much. That's where math operators come in! They are a way to interact with numbers. Take a look at this piece of code:
+```qik
+print(12+13)
+```
+As you can see, QIK has no trouble dealing with addition! Here are some other arithmetic operators that are available:
+```qik
+a = 2
+b = 3
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+```
+As you can see, these operators can be used on any numeric value! This means they work on variables as well as literals (a number passed 'as is'). You can use these in any place an expression would fit, for example, when assigning a value to a variable.
+```qik
+c = a + b*3
+```
+
+##  Order of operations
+QIK supports the basic order of operations. This means that this expression:
+```QIK
+print(1+2*3)
+```
+will print out 7, because despite `1+2` being before `2*3`, multiplication has a higher order of operation and that's why it will be calculated before adding `1`.
+
+If you want to ensure another order, you can use parenthesis!
+```qik
+print( (1+2)*3 )
+```
+This time, the code will print out 9, as it performed the operations inside the parenthesis first, and only then it multiply the result by 3.
+
+# Strings
+Strings are basically a set of ASCII characters. They're the main way to store any kind of text whether it's a single character, a word, a whole sentence, or an entire book! As we've previously seen, they can be created using quotation marks. You'll learn more about them in the next chapters. For now, that's all you need to know.
+
+# Booleans
+As you might know, computers store everything as 1's and 0's. A boolean value is a value that is allowed to have only of these two. Instead of 0 and 1, they are referred to as `false` (0) and `true` (1).
+Booleans are used to represent a single fact. Consider the following sentence: "It's raining now". This sentence can be either `true` or `false`, there's no way to have and not have rain at a given time. Here's how to use `true` and `false` in QIK:
+```qik
+bool1 = (.)
+bool2 = (!)
+```
+The `bool1` variable will hold a `true` value and `bool2` will hold a `false` value.
+**Booleans may seem useless for now, but they will have a major role later on, so keep them in mind!**
